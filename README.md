@@ -1,6 +1,8 @@
 <h1 align="center"> <img width="100" src="https://assets01.teamassets.net/assets/images/teamseas-logo.png" /> </h1>
 <h1 align="center"> ⭐️ #TeamSeas ⭐️ </h1>
 
+ [Demo](https://friendly-torvalds-97ff52.netlify.app/)
+
 ## Build Setup
 
 ``` bash
